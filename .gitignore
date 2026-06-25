@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# Data — never commit raw datasets (licensed / sensitive)
+data/
+datasets/
+*.csv
+*.xlsx
+*.parquet
+*.zip
+
+# Model weights / checkpoints
+*.pkl
+*.pt
+*.pth
+*.ckpt
+*.h5
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/

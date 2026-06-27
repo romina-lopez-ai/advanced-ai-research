@@ -23,6 +23,9 @@ enough to support (never replace) clinical screening.
   high-risk-recall mandate** and **on-premise inference** so no patient transcript ever leaves
   the clinical network.
 
+![Benchmark across models, datasets and metrics](results_primary_metrics.png)
+*Recall (high-risk), MAE, Macro F1 and adjacent accuracy across models and datasets.*
+
 ## Contents
 
 | File | Description |

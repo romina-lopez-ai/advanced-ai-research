@@ -25,6 +25,9 @@ ethical implications of perception models that underperform on under-represented
 - **After fine-tuning:** SydneyScapes mIoU recovers to **57.3%**, beating the 48.98% reported in
   the literature — while keeping the model lightweight and real-time.
 
+![SegFormer-B0 segmentation results on Australian road scenes](segmentation_results.png)
+*Input · ground truth · prediction · overlay, after fine-tuning on SydneyScapes.*
+
 ## Contents
 
 | File | Description |

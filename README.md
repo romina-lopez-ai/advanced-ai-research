@@ -22,4 +22,4 @@ reproduced from the original datasets.
 
 ---
 
-*Studies completed for COMP6011 — Advanced AI Research Topics, Curtin University (2026).*
+*Research studies completed during my Master of Computing (Artificial Intelligence), Curtin University, 2026.*

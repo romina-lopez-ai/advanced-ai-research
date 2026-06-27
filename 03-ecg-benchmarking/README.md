@@ -30,6 +30,9 @@ evaluated for cross-dataset generalisation on CPSC 2018 and Georgia.
   reached **6/6 correct** classifications on held-out cases with clinically consistent
   explanations.
 
+![ECG benchmark: Macro AUROC vs Macro F1 across three datasets](benchmark_results.png)
+*Seven models across PTB-XL, CPSC 2018 and Georgia; the CNN-BiLSTM-Transformer leads.*
+
 ## Contents
 
 | Path | Description |
@@ -41,7 +44,7 @@ evaluated for cross-dataset generalisation on CPSC 2018 and Georgia.
 
 ## 👥 Team project
 
-This was a **group research project** for COMP6011 Research Task 3, published here with my
+This was a **group research project**, published here with my
 teammates' permission.
 
 | Member | GitHub |

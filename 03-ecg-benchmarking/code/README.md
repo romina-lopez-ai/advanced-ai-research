@@ -1,4 +1,4 @@
-# ECG Classification Benchmark — COMP6011 Research Task 3
+# ECG Classification Benchmark
 
 Training and evaluation of 7 deep learning models for 7-class multilabel ECG classification
 across PTB-XL, CPSC 2018, and Georgia datasets.
